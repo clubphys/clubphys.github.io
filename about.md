@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+### Information
 
-### More Information
+This webpage is intended to keep a record of the goings-on for Physics Club. Here you will find information about upcoming events, what we're doing, and things we intend to do!
 
-A place to include any other types of information that you'd like to include about yourself.
+### Contact Us!
 
-### Contact me
+We are available to contact at the following email address.
 
-[email@domain.com](mailto:email@domain.com)
+[ugaphysicsclub@gmail.com](mailto:ugaphysicsclub@gmail.com)
