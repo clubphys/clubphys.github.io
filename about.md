@@ -14,7 +14,7 @@ You can view the upcoming and past events at our [Google Calendar](/calendar/).
 
 ### Who are we?
 
-We've got roughly 20-25 members right now, and we're always looking for more! [You can sign up any time here](https://goo.gl/forms/Xt2EpCevllDZg0zC3).
+We've got roughly 20-25 members right now, and we're always looking for more! [You can sign up any time here](https://goo.gl/forms/Xt2EpCevllDZg0zC3). You don't need to be a major, you just need to be interested in physics and/or astronomy.
 
 ### Leadership
 
