@@ -4,7 +4,7 @@ title: Leadership
 permalink: /leadership/
 ---
 
-At the moment, we have some positions open! Contact us via email [ugaphysicsclub@gmail.com](mailto:ugaphysicsclub@gmail.com) if you're interested.
+At the moment, we have some positions open! Contact us via email [ugaphysicsclub@gmail.com](mailto:ugaphysicsclub@gmail.com) if you're interested in helping us make a community of students.
 
 | Position                  | Name           | 
 | ------------------------- |:--------------:|
