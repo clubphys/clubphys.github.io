@@ -8,6 +8,10 @@ permalink: /about/
 
 This webpage is intended to keep a record of the goings-on for Physics Club. Here you will find information about upcoming events, what we're doing, and things we intend to do!
 
+### Calendar
+
+You can view the upcoming and past events at our [Google Calendar](clubphys.github.io/calendar/).
+
 ### Contact Us!
 
 We are available to contact at the following email address.
