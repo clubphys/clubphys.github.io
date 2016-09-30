@@ -10,7 +10,7 @@ This webpage is intended to keep a record of the goings-on for Physics Club. Her
 
 ### Calendar
 
-You can view the upcoming and past events at our [Google Calendar](clubphys.github.io/calendar/).
+You can view the upcoming and past events at our [Google Calendar](/calendar/).
 
 ### Contact Us!
 
